@@ -1,4 +1,4 @@
-# Hand-gestrure-piano-play-
+# Hand-gesture-piano-play-
 
 Install required libraries 
 cv2 -Capture, display video
